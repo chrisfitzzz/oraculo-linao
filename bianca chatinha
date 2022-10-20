@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet>" href="style.css">
+    <title>almoço do bom</title>
+</head>
+<body>
+
+    <div clanss="wrepper">
+
+    <div clanss="produtosimagem">
+
+    <img id="olive" src="cc.jpg" height="430" width="780">
+
+    </div>
+
+    <div clanss="produtoinfo">
+        <div clanss="produtotexto">
+
+
+    <h1>comidas tipicas</h1>
+    <h2>almoço</h2>
+    <P>No Brasil, o dia de São Jorge é comemorado com feijoada, pois o feijão preto é uma das oferendas que podem ser servidas ao orixá Ogum. É chamado de “comida de orixá”. A feijoada tem, em nosso tempo, ares de festa.</P>
+    
+    </div>
+        <div class="produtopreco">
+            <P><span>R$ 29,90 <span></p>
+                <button type="button">compre aqui</button>
+        </div>
+        </div>
+        </div>
+
+</body>
+</html>
